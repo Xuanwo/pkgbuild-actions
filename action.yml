@@ -10,4 +10,4 @@ name: 'pkgbuild-actions'
 
 runs:
   using: 'docker'
-  image: 'docker://xuanwo/pkgbuild-actions'
+  image: 'docker://ghcr.io/xuanwo/pkgbuild-actions'
