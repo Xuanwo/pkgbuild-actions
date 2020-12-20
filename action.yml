@@ -1,0 +1,13 @@
+author: 'Xuanwo'
+
+branding:
+  icon: 'box'
+  color: 'green'
+
+description: 'Github actions for archlinux package maintainers.'
+
+name: 'pkgbuild-actions'
+
+runs:
+  using: 'docker'
+  image: 'docker://Xuanwo/pkgbuild-actions'
